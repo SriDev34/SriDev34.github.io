@@ -1,4 +1,4 @@
-## Blog Post Title From First Header
+## why SAT solvers? pt.1
 
 Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.
 
